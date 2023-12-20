@@ -3,7 +3,7 @@
 int main(){
     double PI=0.0f;
     int i=1;
-    //while()內的東西成立就會跑{} **是次方的意思
+    //while()內的東西成立就會跑{} 
     while((int)(PI*100000)!=314159){
         if(i%2==1){
             //PI=PI+4/i
